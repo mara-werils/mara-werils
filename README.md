@@ -1,4 +1,4 @@
-# Marlen — ML & Backend Developer
+# Marlen - ML & Backend Developer
 
 Building intelligent systems with Python, PyTorch, and FastAPI.
 

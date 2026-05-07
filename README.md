@@ -2,7 +2,7 @@
 
 **ML & Backend Developer** from Astana, Kazakhstan.
 
-I build intelligent systems — from training custom ML models to deploying production-ready APIs.
+I build intelligent systems from training custom ML models to deploying production-ready APIs.
 
 <p>
   <a href="https://t.me/marlenqq"><img src="https://img.shields.io/badge/Telegram-@marlenqq-2CA5E0?style=flat&logo=telegram" alt="Telegram"/></a>

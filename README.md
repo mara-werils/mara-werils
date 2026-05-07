@@ -8,7 +8,9 @@ Building intelligent systems with Python, PyTorch, and FastAPI.
 
 ### Featured
 
+[**llmstack**](https://github.com/mara-werils/llmstack) — One command to spin up a full LLM stack: inference, vector DB, embeddings, API gateway, observability. `pip install llmstack-cli`
 [**ai-code-reviewer**](https://github.com/mara-werils/ai-code-reviewer) — AI-powered code review for GitHub PRs, multi-LLM support
 [**confectionery-loyalty-system**](https://github.com/mara-werils/confectionery-loyalty-system) — Full-stack loyalty platform with TON blockchain & Telegram Mini App
 [**plant-disease-detection**](https://github.com/mara-werils/plant-disease-detection) — Custom MobileNetV2 + Grad-CAM + LLM recommendations
-[**financial-security-bot-kazakhstan**](https://github.com/mara-werils/financial-security-bot-kazakhstan) — Anti-scam Telegram bot with gamification
+[**BCI-Project**](https://github.com/mara-werils/BCI-Project) — Brain-Computer Interface: EEG-to-image reconstruction with Conditional GANs
+[**tg_job_funnel**](https://github.com/mara-werils/tg_job_funnel) — Telegram job aggregator with AI classification and smart routing

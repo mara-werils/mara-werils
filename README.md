@@ -12,6 +12,6 @@ Building intelligent systems with Python, PyTorch, and FastAPI.
 
 ### Featured
 
-[**llmstack**](https://github.com/mara-werils/llmstack) - One command to spin up a full LLM stack. `pip install llmstack-cli`
-[**ai-code-reviewer**](https://github.com/mara-werils/ai-code-reviewer) - AI-powered code review for GitHub PRs, multi-LLM support
-[**confectionery-loyalty-system**](https://github.com/mara-werils/confectionery-loyalty-system) - Full-stack loyalty platform with TON blockchain & Telegram Mini App
+[**llmstack**](https://github.com/mara-werils/llmstack) - One command to spin up a full LLM stack: gateway, RAG, fine-tuning, observability. `pip install llmstack-cli`
+[**fraud-detection-platform**](https://github.com/mara-werils/fraud-detection-platform) - Real-time fraud detection with XGBoost + GNN ensemble, Kafka streaming, and Next.js dashboard
+[**ai-code-reviewer**](https://github.com/mara-werils/ai-code-reviewer) - AI-powered code review for GitHub, GitLab & Bitbucket PRs with security scanning and self-learning

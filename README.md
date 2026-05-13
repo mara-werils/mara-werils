@@ -5,6 +5,7 @@ Building intelligent systems with Python, PyTorch, and FastAPI.
 <a href="https://t.me/marlenqq"><img src="https://img.shields.io/badge/Telegram-@marlenqq-2CA5E0?style=flat&logo=telegram" alt="Telegram"/></a> <a href="https://shai.pro"><img src="https://img.shields.io/badge/Web-shai.pro-000?style=flat&logo=google-chrome&logoColor=white" alt="Website"/></a>
 
 **Stack:** Python, TypeScript, PyTorch, FastAPI, PostgreSQL, Docker, TON, Ethereum
+**OSS:** contributor to [FastStream](https://github.com/ag2ai/faststream), [PyTorch](https://github.com/pytorch/pytorch), [scikit-learn](https://github.com/scikit-learn/scikit-learn)
 
 ### Featured
 
